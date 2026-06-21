@@ -1,4 +1,7 @@
 print("Hi")
+print("Hello")
 print("bye")
 print("intermediate")
 print("BRO")
+print("BRO2")
+print("BRO3")
